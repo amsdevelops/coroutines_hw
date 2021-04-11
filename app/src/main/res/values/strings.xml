@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CoroutinesAppExample</string>
+    <string name="next_doggy">Next doggy</string>
 </resources>
